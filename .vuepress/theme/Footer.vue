@@ -5,9 +5,9 @@
                 <b-row>
                     <b-col lg="4">
                         <b-list-group flush>
-                            <b-list-group-item to="/" class="text-light">
+                            <!-- <b-list-group-item to="/" class="text-light">
                                 BEP20 Token Generator
-                            </b-list-group-item>
+                            </b-list-group-item> -->
                             <b-list-group-item to="/docs/" class="text-light">
                                 Documentation
                             </b-list-group-item>
@@ -18,9 +18,9 @@
                             <b-list-group-item to="/create-token/" class="text-light">
                                 Create BEP20 Token
                             </b-list-group-item>
-                            <b-list-group-item href="https://firemint.github.io/erc20-generator/" target="_blank" class="text-warning">
+                            <!-- <b-list-group-item href="https://firemint.github.io/erc20-generator/" target="_blank" class="text-warning">
                                 Create ERC20 Token
-                            </b-list-group-item>
+                            </b-list-group-item> -->
                         </b-list-group>
                     </b-col>
                     <b-col lg="4">

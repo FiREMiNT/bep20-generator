@@ -45,7 +45,7 @@
             <b-col lg="10" offset-lg="1" class="mb-3 text-center">
                 <h2 class="pt-5 mb-4 font-weight-lighter text-light">Ready to deploy your BEP20 Token?</h2>
                 <p class="font-weight-light">
-                    Try building your BEP20 Token in less than a minute. You can try on Test Network before to go live.
+                    Try building your BEP20 Token in less than a minute. You can try on Test Network before you go live.
                 </p>
                 <b-button to="/create-token/" size="lg" variant="success" class="my-5 py-3 px-5 text-uppercase">
                     Create BEP20 Token
@@ -78,7 +78,7 @@
                     <b-embed
                             type="iframe"
                             aspect="16by9"
-                            src="https://docs.google.com/forms/d/e/1FAIpQLSeaaoppSnX-0CtPa9sf8qFB9efW9axSDLZBYDuXVF9GloyCGA/viewform?usp=sf_link"
+                            src="https://forms.gle/Xi2MAkyiFvXxu5jd6"
                             allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"
                             allowfullscreen
                     ></b-embed>
@@ -95,7 +95,7 @@
             <b-col lg="10" offset-lg="1" class="mb-3 text-center">
                 <h2 class="pt-5 mb-4 font-weight-lighter text-dark">Ready to deploy your BEP20 Token?</h2>
                 <p class="font-weight-light">
-                    Try building your BEP20 Token in less than a minute. You can try on Test Network before to go live.
+                    Try building your BEP20 Token in less than a minute. You can try on Test Network before you go live.
                 </p>
                 <b-button to="/create-token/" size="lg" variant="success" class="my-5 py-3 px-5 text-uppercase">
                     Create BEP20 Token
