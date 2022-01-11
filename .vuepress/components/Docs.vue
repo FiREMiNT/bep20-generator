@@ -325,7 +325,7 @@
         return `https://github.com/firemint/bep20-generator/blob/v${this.token.version}/analysis/inheritance-tree/${this.contracts.token.contractName}.png`;
       },
       uml: function () {
-        return `https://github.com/firemints/bep20-generator/blob/v${this.token.version}/analysis/uml/${this.contracts.token.contractName}.svg`;
+        return `https://github.com/firemint/bep20-generator/blob/v${this.token.version}/analysis/uml/${this.contracts.token.contractName}.svg`;
       },
     },
     mounted () {
